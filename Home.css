@@ -5,6 +5,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Inconsolata;
+    scroll-behavior: smooth;
 }
 .banner{
     position: relative;
@@ -421,8 +422,4 @@ audio{
     font-size: 20px;
     font-weight: 700;
 }
-
-
-
-
 
